@@ -1,1 +1,2 @@
 Hello, welcome to b.txt
+Update: It is currently Wednesday
